@@ -12,6 +12,8 @@ public class GitRunner {
 		int m = a +b ;
 		System.out.println(m);
 		
+		System.out.println("you and me");
+		
 		
 	}
 
