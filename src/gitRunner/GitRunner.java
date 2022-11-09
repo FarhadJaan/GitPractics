@@ -7,6 +7,8 @@ public class GitRunner {
 		System.out.println("i love mazi");
 		
 		String name = "i love coding but to learn";
+		String str = " gym is fun ";
+		
 
 		
 		int a = 20;
