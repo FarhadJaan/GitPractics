@@ -9,6 +9,7 @@ public class GitRunner {
 		String name = "i love coding but to learn";
 		String str = " gym is fun ";
 		
+		String str1 = "this is a change here
 
 		
 		int a = 20;
